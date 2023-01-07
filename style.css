@@ -122,6 +122,7 @@ nav.navbar ul li a{
     }
 }
 
+
 .section1 img{
     width: 100%;
     height: 800px;
@@ -141,7 +142,7 @@ nav.navbar ul li a{
 }
 
 iframe{
-    order: 2; 
+    order: 2;
 }
 
 .footer{
