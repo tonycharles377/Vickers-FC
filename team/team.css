@@ -1,5 +1,17 @@
-.h1{
-    text-align: center;
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+.team{
+    width: 100%;
+    min-height: 100vh;
+    position: flex;
+    background-color: rgb(238, 232, 232);
+    padding-top: 6rem;
+}
+
+.team h1{
     font-weight: bold;
-    
 }
