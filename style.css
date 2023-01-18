@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     text-decoration: none;
-
+    list-style: none;
 }
 
 div.header{
@@ -122,6 +122,7 @@ nav.navbar ul li a{
     }
 }
 
+
 .section1 img{
     width: 100%;
     height: 800px;
@@ -141,26 +142,26 @@ nav.navbar ul li a{
 }
 
 iframe{
-    order: 2; 
+    order: 2;
 }
+
 
 .footer{
-    place-items: center;
     display: grid;
-    padding: 35px;
+    place-items: center;
+    background-color: rgb(48, 46, 46);
+    padding: 40px;
     font-size: 30px;
-    background: #fff;
 }
 
-.footer .footer-socials a, i{
-    color: black;
+.footer .footer-socials i, a {
+    color: #fff;
 }
 
-.footer .footer-socials a, i :hover{
-    cursor: pointer;
-    border-radius: 50px;
-    transition: 0.4s;
+.footer .footer-socials i, a :hover{
+    background-color: #c00625;
 }
+
 
 .copyright{
     text-align: center;
@@ -181,6 +182,11 @@ iframe{
 .fixtures{
     height: 100vh;
 }
+
+
+
+/*Team.html css*/
+
 
 
 
