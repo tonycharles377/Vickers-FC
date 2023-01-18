@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     text-decoration: none;
+    list-style: none;
 }
 
 .team{
@@ -14,4 +15,12 @@
 
 .team h1{
     font-weight: bold;
+}
+
+.sec1{
+    background-color: #fff;
+    color: black;
+    width: 100%;
+    height: 100px;
+    padding-top: 90px;
 }
